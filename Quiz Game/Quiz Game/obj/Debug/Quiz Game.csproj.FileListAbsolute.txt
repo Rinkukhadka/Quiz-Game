@@ -1,0 +1,11 @@
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe.config
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\bin\Debug\Quiz Game.pdb
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csproj.AssemblyReference.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz_Game.Form1.resources
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz_Game.Properties.Resources.resources
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csproj.GenerateResource.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csproj.CoreCompileInputs.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz Game.exe
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week6\Quiz Game\Quiz Game\obj\Debug\Quiz Game.pdb
